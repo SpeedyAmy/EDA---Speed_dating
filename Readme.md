@@ -36,7 +36,7 @@ If you need to deploy this repo, you will need to upload the dataset in the repo
 
 ## Built With
 
-* nom du jupyter notebook : 
+* nom du jupyter notebook : eda_speed_dating.ipynb
 
 ## Authors
 
