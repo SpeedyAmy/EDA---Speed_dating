@@ -2,6 +2,10 @@
 
 The objective of this project is to analyse a data set of a speed dating experiment.The goal is to understand what happens during a speed dating and especially to understand what will influence the obtaining of a second date.
 
+## Details for certification
+* email : amina.nasri@gmail.com
+* video link : 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
@@ -36,7 +40,7 @@ If you need to deploy this repo, you will need to upload the dataset in the repo
 
 ## Built With
 
-* nom du jupyter notebook : 
+* nom du jupyter notebook : eda_speed_dating.ipynb
 
 ## Authors
 
